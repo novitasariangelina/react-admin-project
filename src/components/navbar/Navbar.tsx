@@ -21,6 +21,10 @@ const Navbar = () => {
             English
           </div>
           <div className="item">
+            <LanguageOutlinedIcon className="icon" />
+            English novi push
+          </div>
+          <div className="item">
             <DarkModeOutlinedIcon className="icon" />
           </div>
           <div className="item">
