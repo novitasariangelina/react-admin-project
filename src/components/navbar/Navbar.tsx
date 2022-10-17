@@ -36,6 +36,10 @@ const Navbar = () => {
             <DarkModeOutlinedIcon className="icon" />
           </div>
           <div className="item">
+            <LanguageOutlinedIcon className="icon" />
+            English editan yudhono tigaaaa
+          </div>
+          <div className="item">
             <DarkModeOutlinedIcon className="icon" />
           </div>
           <div className="item">
