@@ -29,6 +29,13 @@ const Navbar = () => {
             English editan yudhono dua
           </div>
           <div className="item">
+            <LanguageOutlinedIcon className="icon" />
+            English editan yudhono tiga
+          </div>
+          <div className="item">
+            <DarkModeOutlinedIcon className="icon" />
+          </div>
+          <div className="item">
             <DarkModeOutlinedIcon className="icon" />
           </div>
           <div className="item">
@@ -36,6 +43,10 @@ const Navbar = () => {
           </div>
           <div className="item">
             <FullscreenExitOutlinedIcon className="icon" />
+          </div>
+          <div className="item">
+            <NotificationsNoneOutlinedIcon className="icon" />
+            <div className="counter">1</div>
           </div>
           <div className="item">
             <NotificationsNoneOutlinedIcon className="icon" />
