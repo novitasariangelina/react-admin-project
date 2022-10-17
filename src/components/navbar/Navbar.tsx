@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
           <div className="item">
             <LanguageOutlinedIcon className="icon" />
-            English novi push
+            English editan yudhono
           </div>
           <div className="item">
             <DarkModeOutlinedIcon className="icon" />
