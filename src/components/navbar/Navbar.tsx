@@ -25,6 +25,13 @@ const Navbar = () => {
             English editan yudhono
           </div>
           <div className="item">
+            <LanguageOutlinedIcon className="icon" />
+            English editan yudhono dua
+          </div>
+          <div className="item">
+            <DarkModeOutlinedIcon className="icon" />
+          </div>
+          <div className="item">
             <DarkModeOutlinedIcon className="icon" />
           </div>
           <div className="item">
